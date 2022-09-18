@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 👀 I’m an aspiring Full Stack Developer
-- 🌱 I’m currently learning Software Dev
+- 🌱 I’m currently learning JAVA Dev & Data Structures
 - 📫 How to reach me ... madhumithanurthy93@gmail.com
 
 
