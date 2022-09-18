@@ -1,4 +1,4 @@
-# Hi, I'm @madhumithan03 ! 👋
+# Hi, I'm Madhumitha! 👋
 
 
 ## 🚀 About Me
